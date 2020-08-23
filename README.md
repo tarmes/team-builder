@@ -31,7 +31,7 @@ In this project you'll build an app that will keep track of memebers of a team. 
 - [ ] Give the state variable you just declared a default value. You will need to keep track of a list of team members and each team member will have several key/value pairs associated with them.
 - [ ] Render your list of team members.
 
-#### Build your form
+#### Build your fo
 
 - [ ] In `Form.js` build out your markup.
 - [ ] Build inputs for `name`, `email` and `role` (backend engineer, frontend engineer, designer, etc. Use your imagination).
